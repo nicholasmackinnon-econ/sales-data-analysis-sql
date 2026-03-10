@@ -65,7 +65,7 @@ GROUP BY product_id;
 
 ### Result
 
-![Revenue by Product](revenue_by_product.png)
+![Revenue by Product](revenue_by_product.PNG)
 
 ### Insight
 
@@ -92,7 +92,7 @@ JOIN products ON orders.product_id = products.product_id;
 
 ### Result
 
-![Customer Purchase Report](customer_purchase_report.png)
+![Customer Purchase Report](customer_purchase_report.PNG)
 
 ### Insight
 
