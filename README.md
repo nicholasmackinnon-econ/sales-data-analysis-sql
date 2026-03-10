@@ -122,11 +122,11 @@ This query joins the orders, customers, and products tables to produce a transac
 ## Repository Contents
 
 ```
-sales-data-analysis-sql
-│
-├── business_sales_analysis.db
-├── queries.sql
-├── revenue_by_product.png
-├── customer_purchase_report.png
+README.md
+business_sales_analysis.db
+customer_purchase_report.PNG
+database_schema.sql
+queries.sql
+revenue_by_product.PNG
 └── README.md
 ```
