@@ -128,5 +128,3 @@ customer_purchase_report.PNG
 database_schema.sql
 queries.sql
 revenue_by_product.PNG
-└── README.md
-```
