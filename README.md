@@ -126,12 +126,12 @@ GROUP BY c.name
 ORDER BY total_spent DESC;
 
 ### Result
+
 John Smith generated the highest total revenue, followed by Maria Garcia and Alex Chen.
 
 ### Insight
-This analysis identifies the most valuable customers based on total spending. High-value customers are critical to business success because they contribute a large portion of total revenue. A business owner can use this insight to focus on customer retention strategies, such as loyalty programs, personalized promotions, or priority service. Retaining high-value customers is often more cost-effective than acquiring new ones and can significantly increase long-term profitability.
 
----
+This analysis identifies the most valuable customers based on total spending. High-value customers are critical to business success because they contribute a large portion of total revenue. A business owner can use this insight to focus on customer retention strategies, such as loyalty programs, personalized promotions, or priority service. Retaining high-value customers is often more cost-effective than acquiring new ones and can significantly increase long-term profitability.
 
 ## Practical Business Application
 
@@ -139,12 +139,12 @@ This project demonstrates how SQL can be used to support real-world business dec
 
 Based on this analysis, a business owner could:
 
-- Identify top-performing products and prioritize them in marketing and inventory decisions  
-- Recognize high-value customers and implement retention strategies  
-- Analyze customer purchasing behavior to improve pricing and product offerings  
-- Use data-driven insights to increase revenue and optimize business performance  
+Identify top-performing products and prioritize them in marketing and inventory decisions
+Recognize high-value customers and implement retention strategies
+Analyze customer purchasing behavior to improve pricing and product offerings
+Use data-driven insights to increase revenue and optimize business performance
 
-Overall, this project shows how raw data can be transformed into actionable insights that d
+Overall, this project shows how raw data can be transformed into actionable insights that directly impact profitability and decision-making.
 
 ## Tools Used
 
