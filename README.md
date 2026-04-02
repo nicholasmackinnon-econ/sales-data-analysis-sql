@@ -128,7 +128,7 @@ ORDER BY total_spent DESC;
 
 ### Result
 
-John Smith generated the highest total revenue, followed by Maria Garcia and Alex Chen.
+![Top Customers by Revenue](top_customers_by_revenue.png)
 
 ### Insight
 
