@@ -134,7 +134,7 @@ John Smith generated the highest total revenue, followed by Maria Garcia and Ale
 
 This analysis identifies the most valuable customers based on total spending. High-value customers are critical to business success because they contribute a large portion of total revenue. A business owner can use this insight to focus on customer retention strategies, such as loyalty programs, personalized promotions, or priority service. Retaining high-value customers is often more cost-effective than acquiring new ones and can significantly increase long-term profitability.
 
-##Final Business Impact
+## Final Business Impact
 
 This project demonstrates how raw transactional data can be transformed into actionable business insights using SQL.
 
