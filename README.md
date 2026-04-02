@@ -140,9 +140,9 @@ This project demonstrates how raw transactional data can be transformed into act
 
 By analyzing product performance, customer behavior, and revenue patterns, businesses can:
 
-Identify top-performing products and optimize inventory decisions
-Focus on high-value customers to increase retention and lifetime value
-Improve pricing and promotional strategies based on purchasing behavior
-Make data-driven decisions to increase revenue and operational efficiency
+- Identify top-performing products and optimize inventory decisions  
+- Focus on high-value customers to increase retention and lifetime value  
+- Improve pricing and promotional strategies based on purchasing behavior  
+- Make data-driven decisions to increase revenue and operational efficiency  
 
 This highlights the real-world value of data analysis in supporting business growth and strategic decision-making.
