@@ -133,7 +133,6 @@ This analysis identifies the most valuable customers based on total spending. Hi
 
 ---
 
-```md
 ## Practical Business Application
 
 This project demonstrates how SQL can be used to support real-world business decisions.
