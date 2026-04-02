@@ -124,5 +124,12 @@ FROM orders o
 JOIN customers c ON o.customer_id = c.customer_id
 GROUP BY c.name
 ORDER BY total_spent DESC;
+```
 
+### Result
 
+John Smith generated the highest total revenue, followed by Maria Garcia and Alex Chen.
+
+### Insight
+
+This analysis identifies the most valuable customers based on total spending. High-value customers are critical to business success because they contribute a large portion of total revenue. A business owner can use this insight to focus on customer retention strategies, such as loyalty programs, personalized promotions, or priority service. Retaining high-value customers is often more cost-effective than acquiring new ones and can significantly increase long-term profitability.
