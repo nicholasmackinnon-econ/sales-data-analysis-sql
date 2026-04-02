@@ -69,7 +69,7 @@ Which products generate the most revenue?
 ### SQL Query
 
 ```sql
-SELECT product_id, SUM(revenue)
+SELECT product_id, SUM(revenue) AS total_revenue
 FROM orders
 GROUP BY product_id;
 ```
