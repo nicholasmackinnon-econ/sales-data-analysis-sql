@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project demonstrates how SQL can be used to analyze business sales data stored in a relational database. A small database was created containing customer, product, and order information. SQL queries were then used to analyze revenue performance and customer purchasing behavior.
+This project uses SQL to analyze sales performance and customer purchasing behavior in a relational database. The goal is to answer business questions related to revenue generation, product performance, and customer activity using structured query language (SQL).
 
-The purpose of this project is to demonstrate fundamental SQL analysis skills including database design, data aggregation, and relational joins.
+By querying sales data across customers, products, and orders, the analysis demonstrates how SQL can support business decision-making through data aggregation and relational joins.
 
 ---
 
