@@ -8,6 +8,17 @@ By querying sales data across customers, products, and orders, the analysis demo
 
 ---
 
+## Business Questions
+
+This analysis focuses on answering key business questions using SQL:
+
+- Which products generate the most revenue?
+- Which customers contribute the most to total sales?
+- What purchasing patterns can be identified from transaction data?
+- How can SQL be used to combine multiple tables to generate actionable business insights?
+
+---
+
 ## Database Structure
 
 The database contains three tables that represent a simplified sales system.
